@@ -1,5 +1,5 @@
 - Sobre mim:
-- 👋 olá meu nome é @joicefagundes30
+- 👋 olá meu nome é joice fagundes
 - 👀 estou interessada em aprender sobre programaçao.
 - 🌱 meu e-mail de contato é joice.fagundes30@escola.pr.gov.br
 -  eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
